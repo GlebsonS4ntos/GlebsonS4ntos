@@ -1,8 +1,8 @@
-## Olá, sou Glebson Santos e sou Desenvolvedor Java !!
+## Olá, sou Glebson Santos e sou Desenvolvedor !!
 <div align="center">
   <a href="https://github.com/ApenasGlebson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApenasGlebson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasGlebson&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasGlebson&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
