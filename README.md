@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/ApenasGlebson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlebsonS4ntos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlebsonS4ntos&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlebsonS4ntos&&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
