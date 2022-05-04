@@ -1,4 +1,4 @@
-## Olá, sou Glebson Santos e sou Desenvolvedor Java!!
+## Olá, sou Glebson Santos e sou Desenvolvedor!!
 <div style="display: center">
   <a href="https://github.com/ApenasGlebson">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlebsonS4ntos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
