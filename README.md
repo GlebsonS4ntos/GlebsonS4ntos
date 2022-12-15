@@ -6,11 +6,15 @@
   </a>
 </div>
 <div style="display: inline_block"><br><br>
-  <img align="center" alt="java" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Postgresql" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="CSharp" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="DotNet" height="25" width="33"src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=128&color=f2f4f0" />
+  <img align="center" alt="SqlServer" height="25" width="33"src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
+  <img align="center" alt="Angular" height="25" width="33"src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="DotNet" height="25" width="33"src="https://icongr.am/devicon/javascript-original.svg?size=128&color=f2f4f0" />
+  <img align="center" alt="java" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img align="center" alt="Spring" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div>
   
 ###
