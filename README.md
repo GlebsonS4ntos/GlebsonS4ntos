@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=26&text=Glebson%20Santos&section=header&reversal=false&textBg=false&animation=scaleIn&descAlign=92&desc=Hi%20I%20%20am%20QA&descAlignY=79&fontColor=d22b2b)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=26&text=Glebson%20Santos&section=header&reversal=false&textBg=false&animation=scaleIn&descAlign=92&desc=Hi,%20I'm%20QA&descAlignY=79&fontColor=d22b2b)
 
 <br>
 
@@ -14,11 +14,11 @@
   <img align="center" alt="DotNet" height="25" width="33"src="https://icongr.am/devicon/dot-net-plain-wordmark.svg?size=128&color=f2f4f0" />
   <img align="center" alt="SqlServer" height="25" width="33"src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
   <img align="center" alt="Angular" height="25" width="33"src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="25" width="33"src="https://icongr.am/devicon/javascript-original.svg?size=128&color=f2f4f0" />
-  <img align="center" alt="java" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="Spring" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="java" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" />
+  <img align="center" alt="Spring" height="25" width="33" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
 </div>
 
 <hr>
