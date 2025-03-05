@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=26&text=Glebson%20Santos&section=header&reversal=false&textBg=false&animation=scaleIn&descAlign=92&desc=Hi,%20I'm%20QA&descAlignY=79&fontColor=d22b2b)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=26&text=Glebson%20Santos&section=header&reversal=false&textBg=false&animation=scaleIn&fontColor=d22b2b)
 
 <br>
 
