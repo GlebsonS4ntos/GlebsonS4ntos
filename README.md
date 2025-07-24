@@ -9,17 +9,9 @@
 
 <div align="center" >
   <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,cs,dotnet,docker,git,javascript,typescript,css,html,react,figma,bootstrap,postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,postman,cs,dotnet,docker,git,typescript,react,postgres&theme=light" />
   </a>
   <br />
 </div>
 
 <hr>
-
-<div align="center">
-  <div>
-    <h3> Quais musicas estou escutando ? </h3> <br>
-    <img height="300em" src="https://spotify-recently-played-readme.vercel.app/api?user=215l6t6we7woh3gdfe76c4ruy"/>    
-  </div>
-</div>
-
