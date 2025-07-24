@@ -3,8 +3,7 @@
 <br>
 
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GlebsonS4ntos&theme=aura_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlebsonS4ntos&theme=aura_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glebsonS4ntos&theme=aura_dark)
 <br>
 
 <div align="center" >
