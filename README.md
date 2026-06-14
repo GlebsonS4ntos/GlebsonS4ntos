@@ -5,11 +5,7 @@
   <br>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glebsonS4ntos&theme=aura_dark)
-  
-  <br>
-  <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,postman,cs,dotnet,docker,git,typescript,react,postgres&theme=light" />
-  </a>
+
   <br/>
 </div>
 
